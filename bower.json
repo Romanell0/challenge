@@ -1,0 +1,10 @@
+{
+  "name": "challenge",
+  "dependencies": {
+    "angular": "~1.4.1",
+    "requirejs": "~2.1.18",
+    "lodash": "~3.10.0",
+    "angular-route": "~1.4.1",
+    "gulp": "~3.9.0"
+  }
+}
